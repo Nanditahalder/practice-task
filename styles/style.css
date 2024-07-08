@@ -255,3 +255,33 @@ letter-spacing: 0%;
     background-repeat: no-repeat;
     background-position: bottom;
 }
+.rectangle {
+    margin: 150px 100px;
+}
+
+.rectangle-h4 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 0%;
+}
+
+.rectangle-h3{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 80px;
+    letter-spacing: 0%;
+}
+.rectangle-description{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    margin-bottom: 48px;
+}
